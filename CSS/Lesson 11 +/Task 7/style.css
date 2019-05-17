@@ -1,0 +1,68 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-right: 13px;
+    display: inline-block;
+}
+
+a {
+    padding-top: 30px;
+    display: block;
+}
+
+a:link,
+a:visited {
+    color: #CBCBCB;
+    text-decoration: none
+}
+
+a:hover {
+    color: #039CFF
+}
+
+.l1 a:link,
+.l1 a:visited {
+    background: url("airplane.png") no-repeat top center;
+}
+
+.l2 a:link,
+.l2 a:visited {
+    background: url(img/2.png) no-repeat top center;
+}
+
+.l3 a:link,
+.l3 a:visited {
+    background: url(img/3.png) no-repeat top center;
+}
+
+.l4 a:link,
+.l4 a:visited {
+    background: url(img/4.png) no-repeat top center;
+}
+
+.l5 a:link,
+.l5 a:visited {
+    background: url(img/5.png) no-repeat top center;
+}
+
+.l1 a:hover {
+    background: url("airplane.png") no-repeat top center;
+}
+
+.l2 a:hover {
+    background: url(img/2-h.png) no-repeat top center;
+}
+
+.l3 a:hover {
+    background: url(img/3-h.png) no-repeat top center;
+}
+
+.l4 a:hover {
+    background: url(img/4-h.png) no-repeat top center;
+}
+
+.l5 a:hover {
+    background: url(img/5-h.png) no-repeat top center;
+}

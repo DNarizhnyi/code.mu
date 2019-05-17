@@ -1,0 +1,13 @@
+#red {
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+   
+}
+#green {
+	width: 200px;
+	border: 1px solid green;
+	text-align: justify;
+    padding: 30px;
+    margin-top: 200px;
+}

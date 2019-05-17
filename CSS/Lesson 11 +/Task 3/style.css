@@ -1,0 +1,26 @@
+li {
+    margin-bottom: 2px;
+}
+
+ul {
+    list-style-type: none;
+    width: 200px
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: rgb(254, 254, 255);
+    font: 13px bold Arial;
+    border: 2px solid rgb(2, 2, 2);
+    display: block;
+    padding: 0px 5px;
+    line-height: 30px;
+    background: #464343;
+    font-weight: bold;
+}
+a:hover{
+    font-weight: bold;
+    background: white;
+    color: black;
+}

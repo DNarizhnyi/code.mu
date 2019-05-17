@@ -1,0 +1,9 @@
+body{
+background: url("smile1.png") repeat-y right top;
+}
+
+.lorem{
+	width: 530px; 
+	text-align: justify; 
+	font-weight: bold; 
+}

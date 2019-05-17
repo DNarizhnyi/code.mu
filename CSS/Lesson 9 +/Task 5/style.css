@@ -1,0 +1,11 @@
+body{
+background: black url("fon.jpg") no-repeat left top scroll;
+
+}
+
+.lorem{
+	width: 530px; 
+	text-align: justify; 
+	font-weight: bold;
+	color: white;
+}

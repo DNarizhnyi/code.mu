@@ -1,0 +1,27 @@
+#first {
+    list-style-type: square;
+}
+
+#second {
+    list-style-type: circle;
+}
+
+#third {
+    list-style-type: disc;
+}
+
+#fourth {
+    list-style-type: none;
+}
+
+#fifth {
+    list-style-image: url("smile1.png");
+}
+
+#seventh {
+    list-style-type: lower-greek;
+}
+
+#eighth {
+    list-style-type: upper-alpha;
+}

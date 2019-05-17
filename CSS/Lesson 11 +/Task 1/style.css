@@ -1,0 +1,15 @@
+ ul {
+     color: blue;
+ }
+
+ a:link,
+ a:visited {
+     text-decoration: none;
+     color: blue;
+     font: 13px Arial;
+ }
+
+ a:hover {
+     text-decoration: underline;
+     color: red;
+ }

@@ -1,0 +1,21 @@
+li {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.404);
+    font: 13px Arial;
+    border: 1px solid rgba(0, 0, 255, 0.404);
+    padding:  5px;    
+}
+a:hover, a:active{
+    font-weight: bold;
+    color: white;
+    background-color: darkcyan;
+}

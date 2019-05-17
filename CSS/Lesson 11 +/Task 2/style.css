@@ -1,0 +1,22 @@
+li {
+    margin-bottom: 2px;
+}
+
+ul {
+    list-style-type: none;
+    width: 200px
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: blue;
+    font: 13px Arial;
+    border: 1px solid blue;
+    display: block;
+    padding: 0px 5px;
+    line-height: 30px;
+}
+a:hover{
+	font-weight: bold;
+}

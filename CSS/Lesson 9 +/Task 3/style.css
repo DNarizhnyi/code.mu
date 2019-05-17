@@ -1,0 +1,9 @@
+body{
+   background-image: url("15130.jpg");
+   background-attachment: fixed;
+}
+
+.lorem{
+   width: 300px;
+   color: white;
+}

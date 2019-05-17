@@ -1,0 +1,14 @@
+#smile1 {
+    float: left;
+    margin-right: 20px
+}
+
+#smile2 {
+    float: right;
+    margin-left: 0px
+}
+
+p {
+    width: 500px;
+    text-align: justify;
+}

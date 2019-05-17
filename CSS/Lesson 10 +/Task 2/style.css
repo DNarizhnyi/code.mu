@@ -1,0 +1,8 @@
+#red_border {
+	width: 700px;
+	border: 1px solid red;
+	text-align: justify;
+    padding: 30px;
+    margin: 50px auto ;
+    border-radius: 10px;
+}

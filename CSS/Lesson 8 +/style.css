@@ -1,0 +1,68 @@
+div.six {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    width: 300px;
+    height: 300px;
+}
+
+div.seven {
+    border-width: 2px;
+    border-style: dotted;
+    border-color: rgb(0, 4, 255);
+    width: 600px;
+    height: 300px;
+}
+
+div.eight {
+    border-width: 1px;
+    border-style: dashed;
+    border-color: rgb(0, 255, 13);
+    width: 100px;
+    height: 100px;
+}
+
+div.nine {
+    border: 1px solid;
+    border-radius: 30px;
+    border-left-color: black;
+    border-right-color: green;
+    border-top-color: blue;
+    border-bottom-color: red;
+    width: 600px;
+    height: 300px;
+}
+
+div.ten {
+    border: 1px dashed green;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px 40px;
+}
+
+div.eleven {
+    border: 1px dashed green;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px 30px 50px 70px;
+}
+
+div.twelve {
+    border: 1px dashed green;
+    width: 150px;
+    height: 150px;
+    border-radius: 151px 151px 151px 151px;
+}
+
+a:first {
+	color: red;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
+}

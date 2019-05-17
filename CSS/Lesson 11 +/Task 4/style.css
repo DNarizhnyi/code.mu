@@ -1,0 +1,27 @@
+li {
+    margin-bottom: 2px;
+}
+
+ul {
+    list-style-type: none;
+    width: 200px
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: rgb(254, 254, 255);
+    font: 13px bold Arial;
+    border: 2px solid rgb(0, 0, 0);
+    display: block;
+    padding: 0px 5px;
+    line-height: 30px;
+    background: #464343;
+    font-weight: bold;
+}
+a:hover, a:active{
+    font-weight: bold;
+    background: white url("running-man.png") 90% no-repeat; /* color background + image + position(90%) + no-repeat */
+    background-size: 20px; /* image size */
+    color: #464343;
+}
